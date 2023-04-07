@@ -1,8 +1,8 @@
-# Olá! Me chamo Mateus 😄
-## Sobre mim👾 
-- 💻Atualmente estou cursando ADS e focando em Front-End.
-- 🕹️Gosto de programação, desenvolvimento de jogos e modelagem 3D.
-- 📖Adoro aprender novos idiomas, Sei falar Inglês (C1), Polonês (A1) e Russo (A1).
+# Hey! My name is Mateus 😄
+## About me👾 
+- 💻My major is Analysis and System Development, and I'm currently focusing on game development.
+- 🕹️I like programming, games, and art in general.
+- 📖I'm fond of languages, I speak English (C1), Polish (A1), Russian (A1), and Portuguese (Native).
 ---
 <p align="center">
 <img src="https://user-images.githubusercontent.com/112340716/215418714-344753d4-df82-4946-8d9d-b9d7ad15ac45.gif"
