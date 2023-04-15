@@ -12,7 +12,7 @@
 <a href="https://github.com/SmaithorZ/Dim-Sums-Language-Site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SmaithorZ&theme=dracula&repo=Dim-Sums-Language-Site" />
 </a>
-<a href="https://github.com/SmaithorZ/TopDownPlataformerGame-Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SmaithorZ&theme=dracula&repo=TopDownPlataformerGame-Java" />
+<a href="https://github.com/SmaithorZ/ping-pong-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SmaithorZ&theme=dracula&repo=ping-pong-game" />
 </a>
 </div>
