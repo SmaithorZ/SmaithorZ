@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-<a href="https://github.com/SmaithorZ/Dim-Sums-Language-Site">
+<a href="https://github.com/SmaithorZ/My-Diary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SmaithorZ&theme=dracula&repo=Dim-Sums-Language-Site" />
 </a>
 <a href="https://github.com/SmaithorZ/ping-pong-game">
