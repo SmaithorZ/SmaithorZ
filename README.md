@@ -10,7 +10,7 @@
 
 <div align="center">
 <a href="https://github.com/SmaithorZ/My-Diary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SmaithorZ&theme=dracula&repo=Dim-Sums-Language-Site" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SmaithorZ&theme=dracula&repo=My-Diary" />
 </a>
 <a href="https://github.com/SmaithorZ/ping-pong-game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SmaithorZ&theme=dracula&repo=ping-pong-game" />
