@@ -12,7 +12,7 @@
 <a href="https://github.com/SmaithorZ/My-Diary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SmaithorZ&theme=dracula&repo=My-Diary" />
 </a>
-<a href="https://github.com/SmaithorZ/ping-pong-game">
+<a href="https://github.com/SmaithorZ/GameStore">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SmaithorZ&theme=dracula&repo=GameStore" />
 </a>
 </div>
