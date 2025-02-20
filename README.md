@@ -13,6 +13,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SmaithorZ&theme=dracula&repo=My-Diary" />
 </a>
 <a href="https://github.com/SmaithorZ/ping-pong-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SmaithorZ&theme=dracula&repo=ping-pong-game" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SmaithorZ&theme=dracula&repo=GameStore" />
 </a>
 </div>
