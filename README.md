@@ -1,7 +1,7 @@
 # Hey! My name is Mateus 😄
 ## About me👾 
-- 💻My major is Analysis and System Development, and I'm currently focusing on back-end.
-- 🕹️I like programming, learning languages, games, and art in general.
+- 💻My major is Analysis and System Development, and I'm currently focusing on Computer Networks.
+- 🕹️I like programming, Computer Networks, learning languages, games, and art in general.
 - 📖I'm fond of languages, as I said, I speak English (C1), Polish (A2), Swedish (A2), and Portuguese (Native).
 ---
 <p align="center">
